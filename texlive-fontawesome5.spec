@@ -1,6 +1,6 @@
 Name:		texlive-fontawesome5
 Version:	63207
-Release:	1
+Release:	2
 Summary:	Font Awesome 5 with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fontawesome5
