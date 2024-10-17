@@ -3,7 +3,7 @@ Version:	63207
 Release:	2
 Summary:	Font Awesome 5 with LaTeX support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fontawesome5
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fontawesome5
 License:	ofl lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fontawesome5.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fontawesome5.doc.r%{version}.tar.xz
